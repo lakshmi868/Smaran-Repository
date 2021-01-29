@@ -1,0 +1,15 @@
+build    Build or rebuild services 
+help     Get help on a command 
+kill     Kill containers 
+logs     View output from containers 
+port     Print the public port for a port binding 
+ps       List containers 
+pull     Pulls service images 
+rm       Remove stopped containers 
+run      Run a one-off command 
+scale    Set number of containers for a service 
+start    Start services 
+stop     Stop services 
+restart  Restart services 
+up       Create and start containers
+down     Stops and removes containers
